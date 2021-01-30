@@ -28,9 +28,9 @@ where `labels` is a directory containing files with one or more labels for each 
 We will run the `train_model.m` and `test_model.m` scripts to run your training code and testing code, so check these scripts and the functions that they call.
 Our example code uses four main scripts to train and test your model for the 2021 Challenge: 
 
-Please edit the following script to add your training and testing code:
+Please edit the following scripts to add your training and testing code:
 * `team_training_code.m` is a script with functions for training your model and running your trained model. It also calls `get_features.m` fucntion that you can edit.
-* `team_testing_code.m` is a script with functions for loading your model, extrating features from your test data and predict outputs using the classifier.
+* `team_testing_code.m` is a script with functions for loading your model, extracting features from your test data and predict outputs using the classifier.
 
 Please do **not** edit the following scripts. We will use the unedited versions of these scripts.
 * `train_model.m` is a script for calling your training code on the training data.
